@@ -10,7 +10,7 @@
 // @match        https://t.bilibili.com/*
 // @grant        none
 // @require      https://cdn.bootcdn.net/ajax/libs/jquery/3.6.1/jquery.min.js
-// @license      Diana's Dog
+// @license      MIT
 // ==/UserScript==
 (function() {
 
